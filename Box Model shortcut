@@ -1,0 +1,6 @@
+/* top, right, bottom, left, color */
+div {
+     margin: 10px 10px 10px 10px red;
+     border: 16px 16px 16px 16px orange;
+     padding: 32px 32px 32px 32px yellow;
+     }
